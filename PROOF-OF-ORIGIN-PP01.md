@@ -5,7 +5,7 @@ Live: https://azad-captured.vercel.app/
 Created: 2026-09-16, from a blank file. No template, no CMS, no copied codebase.
 
 Source fingerprint (sha256 of js/data.js + js/audio.js + js/sprites.js + js/app.js + css/style.css, first 16 hex):
-87978d23a493d81d
+a3253d47fe666993
 
 The same fingerprint is displayed INSIDE the device: SYSTEM > PROOF OF ORIGIN.
 The private source repository azadyadav99/pixel-pocket is owned by this account;
@@ -18,5 +18,6 @@ Revision history (fingerprint changes = source edits by the author):
 - cd53783d07cb3f41 — 2026-09-19 — fixes: keyboard easter egg, placeholder links removed, LinkedIn profile link
 - 41d17a63b4d31e9f — 2026-09-19 — copy cleanup: em-dash tells removed from user-facing text
 - 87978d23a493d81d — 2026-09-19 — copy cleanup pass 2: escaped em-dashes (experience, journey map, proof note)
+- a3253d47fe666993 — 2026-09-25 — new project added: VLC LIVE TV (+ tv sprite)
 
 License: CC BY-NC-ND 4.0. Original work of Azad Yadav.
